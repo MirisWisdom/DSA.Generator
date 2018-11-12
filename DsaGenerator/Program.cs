@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DSA.Generator
+namespace DsaGenerator
 {
     /// <summary>
     ///     Generates a DSA sequence and writes it to the console.

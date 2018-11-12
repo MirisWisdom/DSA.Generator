@@ -1,4 +1,4 @@
-namespace DSA.Generator.Generators
+namespace DsaGenerator.Generators
 {
     /// <summary>
     /// Abstract type representing a string generator.
