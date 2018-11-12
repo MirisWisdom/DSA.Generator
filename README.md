@@ -9,9 +9,11 @@
 
 # Introduction
 
-> This is **NOT** related to the Digital Signature Algorithm.
-
 This repository provides the source code and binaries for a CLI that outputs variable-length DSA & LO7 strings to the console.
+
+## Usage
+
+The .NET 4.5 framework needs to be installed. Please run the executable from the command line with either `dsa` or `lo7` as the inbound argument.
 
 ## DSA
 
