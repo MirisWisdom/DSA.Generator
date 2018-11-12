@@ -13,7 +13,9 @@ This repository provides the source code and binaries for a CLI that outputs var
 
 ## Usage
 
-The .NET 4.5 framework needs to be installed. Please run the executable from the command line with either `dsa` or `lo7` as the inbound argument.
+The .NET 4.5 framework needs to be installed; however, WINE & Mono are also supported.
+
+Please run the executable from the command line with either `dsa` or `lo7` as the inbound argument.
 
 ## DSA
 
