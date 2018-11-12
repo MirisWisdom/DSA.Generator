@@ -8,11 +8,6 @@ namespace DSA.Generator
     internal static class Program
     {
         /// <summary>
-        /// Length of the DSA generated string.
-        /// </summary>
-        private const int Length = 64;
-
-        /// <summary>
         /// DSA-compliant characters.
         /// </summary>
         private static readonly string[] Characters = {
@@ -29,7 +24,7 @@ namespace DSA.Generator
             // accelerate heat death of the universe
             while (true)
             {
-                var result = new string[Length];
+                var result = new string[random.Next(32,64)];
 
                 // populate each index in the empty string array with a randomly chosen DSA character
                 for (int i = 0; i < result.Length; i++)
