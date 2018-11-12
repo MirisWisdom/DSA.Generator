@@ -24,10 +24,15 @@ namespace DSA.Generator
             // accelerate heat death of the universe
             while (true)
             {
-                var result = new string[random.Next(32,64)];
+                var result = new string[random.Next(48,64)];
+
+                // initiate string with 'ASD' string bias.
+                result[0] = Characters[2];
+                result[1] = Characters[1];
+                result[2] = Characters[0];
 
                 // populate each index in the empty string array with a randomly chosen DSA character
-                for (int i = 0; i < result.Length; i++)
+                for (int i = 3; i < result.Length; i++)
                 {
                     result[i] = Characters[random.Next(0, Characters.Length - 1)];
                 }
