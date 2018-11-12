@@ -3,13 +3,14 @@
     DSA Generator
 </h1>
 <h3 align="center">
-    String generator with complaince for the DSA & LO7 specifications
+    String generator with compliance for the DSA & LO7 specifications
 </h3>
 </html>
 
 # Introduction
 
-This repository provides the source code and binaries for a CLI that outputs variable-length DSA & LO7 strings to the console.
+This repository provides the source code and binaries for a CLI that outputs variable-length DSA & LO7 strings to the
+console.
 
 ## Usage
 
@@ -19,7 +20,9 @@ Please run the executable from the command line with either `dsa` or `lo7` as th
 
 ## DSA
 
-The DSA strings are the product of human-driven randomisation, i.e. keyboard mashing. This is the product of approximately 4 years of evolution in encrypting and simplfying the typing of "What are you currently up to, my dear friend whom I cherish the existence of? :)".
+The DSA strings are the product of human-driven randomisation, i.e. keyboard mashing.
+This is the product of approximately 4 years of evolution in encrypting and simplifying the typing of "What are you
+currently up to, my dear friend whom I cherish the existence of? :)".
 
 The following table shows the evolution of DSA-generation over the years:
 
@@ -35,9 +38,13 @@ The following table shows the evolution of DSA-generation over the years:
 
 ## LO7
 
-The LO7 strings are the result of spiting the usual way of pretending to laugh over text: `LOL`. It is an outdated, boring, and asymmetric phrase. By introducing symmetry and novelty, the Yin-Yang `LO7` has been introduced. The string can be rotated without a loss in its readability.
+The LO7 strings are the result of spiting the usual way of pretending to laugh over text: `LOL`.
+It is an outdated, boring, and asymmetric phrase. By introducing symmetry and novelty, the Yin-Yang `LO7` has been
+introduced. The string can be rotated without a loss in its readability.
 
-For further expression of laughter, the `A` character has been introduced, thereby resulting in `LOA7`. For extensive vocalisation, the vowels can be elongated: `LOOOOOOOOAAAA7`. To combine the randomisation of DSA with the genuine laughter when expressing `LOA7`, the characters can be randomised: `LOOAO7LAO7LOAL7OALO76LAO7`.
+For further expression of laughter, the `A` character has been introduced, thereby resulting in `LOA7`.
+For extensive vocalisation, the vowels can be elongated: `LOOOOOOOOAAAA7`. To combine the randomisation of DSA with the
+genuine laughter when expressing `LOA7`, the characters can be randomised: `LOOAO7LAO7LOAL7OALO76LAO7`.
 
 # FAQ
 
