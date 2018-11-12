@@ -26,15 +26,15 @@ currently up to, my dear friend whom I cherish the existence of? :)".
 
 The following table shows the evolution of DSA-generation over the years:
 
-| Sequence                           | Description                                                                                            |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| `What are you currently up to? :)` | Original, human-readable text which expresses enthusiasm and interest in your fellow peer.             |
-| `what are you doing`               | Slightly simplified in terms of grammar & phrasing. Much more casual.                                  |
-| `wot are u doing?`                 | Incorporating a style bound to the normality of your usual millennial's typing.                        |
-| `wtounDDSAwotundsa,.msDA`          | Early stages of the DSA sequence. The transition between what are you doing and mashing DSA is visible |
-| `wountSA?D><AS?D><?SAD`            | Type-2 sequence, with significant regression in demonstrating cognitive abilities.                     |
-| `SA?<DAS?<A?DS<>?D?SADD?`          | Evident case of null enthusiasm for being alive.                                                       |
-| `dsa`                              | Transcendence into a new dimension.                                                                    |
+| Sequence                           | Description                                                                                             |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `What are you currently up to? :)` | Original, human-readable text which expresses enthusiasm and interest in your fellow peer.              |
+| `what are you doing`               | Slightly simplified in terms of grammar & phrasing. Much more casual.                                   |
+| `wot are u doing?`                 | Incorporating a style bound to the normality of your usual millennial's typing.                         |
+| `wtounDDSAwotundsa,.msDA`          | Early stages of the DSA sequence. The transition between what are you doing and mashing DSA is visible. |
+| `wountSA?D><AS?D><?SAD`            | Type-2 sequence, with significant regression in demonstrating cognitive abilities.                      |
+| `SA?<DAS?<A?DS<>?D?SADD?`          | Evident case of null enthusiasm for being alive.                                                        |
+| `dsa`                              | Transcendence into a new dimension.                                                                     |
 
 ## LO7
 

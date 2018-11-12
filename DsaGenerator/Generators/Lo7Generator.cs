@@ -2,6 +2,7 @@ using System;
 
 namespace DsaGenerator.Generators
 {
+    /// <inheritdoc />
     /// <summary>
     ///     LO7-compliant string generator.
     /// </summary>
@@ -10,7 +11,7 @@ namespace DsaGenerator.Generators
         /// <inheritdoc />
         protected override string[] Characters { get; } =
         {
-            "L", "O", "A", "7"
+            "L", "O", "A", "7", "8", "9"
         };
 
         /// <inheritdoc />

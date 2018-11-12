@@ -2,6 +2,7 @@ using System;
 
 namespace DsaGenerator.Generators
 {
+    /// <inheritdoc />
     /// <summary>
     ///     DSA-compliant string generator.
     /// </summary>
