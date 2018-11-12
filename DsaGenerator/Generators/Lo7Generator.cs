@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace DsaGenerator.Generators
 {
@@ -9,7 +10,7 @@ namespace DsaGenerator.Generators
     public class Lo7Generator : Generator
     {
         /// <inheritdoc />
-        protected override string[] Characters { get; } =
+        protected override List<string> Characters { get; } = new List<string>
         {
             "L", "O", "A", "7", "8", "9"
         };
@@ -26,7 +27,7 @@ namespace DsaGenerator.Generators
             result[2] = Characters[2];
 
             // populate each index in the empty string array with a randomly chosen LO7 character
-            for (int i = 3; i < result.Length; i++) result[i] = Characters[random.Next(0, Characters.Length)];
+            for (int i = 3; i < result.Length; i++) result[i] = Characters[random.Next(0, Characters.Count)];
 
             // write the array to the console by joining the items
             return string.Join(string.Empty, result);

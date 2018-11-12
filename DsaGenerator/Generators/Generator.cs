@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace DsaGenerator.Generators
 {
     /// <summary>
@@ -8,7 +10,7 @@ namespace DsaGenerator.Generators
         /// <summary>
         ///     Valid characters for a string generation algorithm.
         /// </summary>
-        protected abstract string[] Characters { get; }
+        protected abstract List<string> Characters { get; }
 
         /// <summary>
         ///     Retrieves a generated string using the given algorithm.
