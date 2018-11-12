@@ -38,7 +38,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Generators\DsaGenerator.cs" />
     <Compile Include="Generators\Generator.cs" />
+    <Compile Include="Generators\GeneratorFactory.cs" />
+    <Compile Include="Generators\Lo7Generator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
