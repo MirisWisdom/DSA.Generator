@@ -9,6 +9,16 @@ namespace DsaGenerator
     internal static class Program
     {
         /// <summary>
+        ///     String value for the DSA argument.
+        /// </summary>
+        private const string DsaArg = "DSA";
+
+        /// <summary>
+        ///     String value for the LO7 argument.
+        /// </summary>
+        private const string Lo7Arg = "LO7";
+
+        /// <summary>
         ///     Main loop.
         /// </summary>
         public static void Main(string[] args)
@@ -21,16 +31,18 @@ namespace DsaGenerator
 
             Generator generator = null;
 
-            if (args[0].ToUpper() == "DSA")
-                generator = GeneratorFactory.Get(GeneratorFactory.Type.Dsa);
-
-            if (args[0].ToUpper() == "LO7")
-                generator = GeneratorFactory.Get(GeneratorFactory.Type.Lo7);
-
-            if (generator == null)
+            switch (args[0].ToUpper())
             {
-                Console.WriteLine("Invalid argument provided. Please input LO7 or DSA.");
-                Environment.Exit(2);
+                case DsaArg:
+                    generator = GeneratorFactory.Get(GeneratorFactory.Type.Dsa);
+                    break;
+                case Lo7Arg:
+                    generator = GeneratorFactory.Get(GeneratorFactory.Type.Lo7);
+                    break;
+                default:
+                    Console.WriteLine("Invalid argument provided. Please input LO7 or DSA.");
+                    Environment.Exit(2);
+                    break;
             }
 
             // accelerate heat death of the universe
