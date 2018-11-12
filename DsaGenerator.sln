@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA.Generator", "DSA.Generator\DSA.Generator.csproj", "{8642A0FB-E7A1-4D0B-AAF3-2CFB19C1D8EC}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{EAB5FFD2-FA1D-48BA-83A5-6BA7CC467C1C}"
 ProjectSection(SolutionItems) = preProject
 	README.md = README.md
 	.gitignore = .gitignore
 EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DsaGenerator", "DsaGenerator\DsaGenerator.csproj", "{8642A0FB-E7A1-4D0B-AAF3-2CFB19C1D8EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

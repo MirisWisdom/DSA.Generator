@@ -7,8 +7,8 @@
     <ProjectGuid>{8642A0FB-E7A1-4D0B-AAF3-2CFB19C1D8EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DSA.Generator</RootNamespace>
-    <AssemblyName>DSA.Generator</AssemblyName>
+    <RootNamespace>DsaGenerator</RootNamespace>
+    <AssemblyName>DsaGenerator</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

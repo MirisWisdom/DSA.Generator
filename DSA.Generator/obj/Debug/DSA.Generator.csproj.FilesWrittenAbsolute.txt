@@ -1,5 +1,0 @@
-/Users/Miris/Development/Code/DSA.Generator/DSA.Generator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/Miris/Development/Code/DSA.Generator/DSA.Generator/bin/Debug/DSA.Generator.pdb
-/Users/Miris/Development/Code/DSA.Generator/DSA.Generator/bin/Debug/DSA.Generator.exe
-/Users/Miris/Development/Code/DSA.Generator/DSA.Generator/obj/Debug/DSA.Generator.exe
-/Users/Miris/Development/Code/DSA.Generator/DSA.Generator/obj/Debug/DSA.Generator.pdb
