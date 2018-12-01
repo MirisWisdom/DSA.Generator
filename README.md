@@ -21,8 +21,8 @@ Please run the executable from the command line with either `dsa` or `lo7` as th
 ## DSA
 
 The DSA strings are the product of human-driven randomisation, i.e. keyboard mashing.
-This is the product of approximately 4 years of evolution in encrypting and simplifying the typing of "What are you
-currently up to, my dear friend whom I cherish the existence of? :)".
+This is the product of approximately 4 years of evolution in encrypting and simplifying the typing of
+"**What are you currently up to, my dear friend whom I cherish the existence of? :)**".
 
 The following table shows the evolution of DSA-generation over the years:
 
