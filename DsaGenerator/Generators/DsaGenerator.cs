@@ -27,7 +27,7 @@ namespace DsaGenerator.Generators
             result[2] = Characters[0];
 
             // populate each index in the empty string array with a randomly chosen DSA character
-            for (int i = 3; i < result.Length; i++) result[i] = Characters[random.Next(0, Characters.Count)];
+            for (var i = 3; i < result.Length; i++) result[i] = Characters[random.Next(0, Characters.Count)];
 
             // write the array to the console by joining the items
             return string.Join(string.Empty, result);
